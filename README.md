@@ -1,4 +1,4 @@
-# webpackDemo
+# webpackDemo 1-no-webpack
 corresponds to this lesson:
 https://webpack.js.org/guides/getting-started/
 
