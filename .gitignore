@@ -1,0 +1,20 @@
+# Created by .ignore support plugin (hsz.mobi)
+### davidjmcclelland template
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+.DS_Store
+node_modules
+.tmp
+.sass-cache
+builds/**/images/*
+node_modules/
+webpackDemo.iml
+webpackDemo.ipr
+webpackDemo.iws
