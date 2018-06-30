@@ -1,4 +1,4 @@
-# webpackDemo
+# webpackDemo 2-create-a-bundle
 corresponds to this lesson:
 https://webpack.js.org/guides/getting-started/
 
