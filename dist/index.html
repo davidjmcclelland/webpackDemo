@@ -7,6 +7,9 @@
     -->
 </head>
 <body>
-<script src="../src/index.js"></script>
+<!-- we use this single import to enable webpack to load all the libraries and their respective dependencies.
+npx webpack command causes a webpack binary to create a bundle of all the libraries needed and puts it where it can
+ find it and load it at runtime. -->
+<script src="main.js"></script>
 </body>
 </html>
